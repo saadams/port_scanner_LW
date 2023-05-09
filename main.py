@@ -1,5 +1,7 @@
-import socket
+import socket,subprocess
 
+
+subprocess.call('clear',shell=True)
 target = input("Enter the target to scan: ")
 ip = socket.gethostbyname(target)
 
