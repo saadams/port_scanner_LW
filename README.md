@@ -1,1 +1,2 @@
-# port_scanner
+# A basic lightweight port scanner in python 
+
